@@ -1,0 +1,28 @@
+#+OPTIONS: ^:nil toc:nil num:nil
+#+TITLE: Weaverdice Rules
+#+AUTHOR: Richard L. Trotta III
+#+EMAIL: trotta@cua.edu
+#+LATEX_CLASS: article
+
+These are a custom version of the weaverdice rules for my campaign. Certain gameplay elements have been removed or changed to build the game I want to GM.
+
+* Lore Introduction
+
+The story takes place in the city of Charnelhurst.
+
+* Character Creation
+* Backgrounds
+* Morale
+* Stats, Abilities, and Skills
+* Equipment
+* Combat
+* Downtime
+* Gathering Intel
+* Reputation
+
+There are numerous factions in the city of Charnelhurst. As players, you have a reputation with each faction that can be altered by your choices. The reputations are the following...
+
+- Exalted, Revered, Honored, Friendly, Neutral, Unfriendly, Hostile, Hated
+
+You will start most factions as Neutral and your choices can increase this or decrease this. For instance, if you pray in the church each session your reputaion can increase. Things like quests and the enemies you fight will determine how these reputations increase or decrease. 
+
